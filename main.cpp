@@ -1,7 +1,6 @@
 
 #include <iostream>
 #include <cstdlib>
-#include <sstream>
 #include <ctime>
 void play_game()
 {
